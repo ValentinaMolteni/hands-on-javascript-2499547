@@ -31,7 +31,7 @@ const data = [
         "https://api.unsplash.com/photos/_QnmKtH831M/download?ixid=MnwzNDYyMzh8MHwxfGFsbHwxfHx8fHx8Mnx8MTY1NzczNzQ4NQ",
     },
     categories: [],
-    likes: 0,
+    likes: 2,
     liked_by_user: false,
     current_user_collections: [],
     sponsorship: null,
